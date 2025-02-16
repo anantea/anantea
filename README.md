@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is **Nana Mulyana**.<br>
+I’m currently learning Git & GitHub.
+
+<p align="left">
+<a href="https://github.com/anantea">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **anantea/anantea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
